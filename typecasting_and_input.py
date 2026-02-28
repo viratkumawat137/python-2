@@ -1,0 +1,35 @@
+# Input and Typecasting
+
+# name=input("Enter your name:")
+# print("Welcome ", name)
+
+# age=int(input("Enter your age:"))
+# print(type(age))
+# age=age+5
+# print("Your age is :", age)
+
+# temprature=float(input("Enter today's temp :"))
+# print(type(temprature))
+
+#Convert number to string
+# sales = 50000
+# a = "Total sales: " + str(sales)
+# print(a)
+
+
+
+#Total Sales Calculator example
+# product = input("Product Name: ")
+# quantity = int(input("Enter quantity off kg: "))
+# price_per_unit = int(input("Enter price per unit"))
+# total_sales = quantity * price_per_unit
+# print("______________________")
+# print("Product:", product)
+# print("Total Sales Amount =", total_sales)
+
+
+# fnum=int(input("Enter first num:"))
+# snum=int(input("Enter Second num:"))
+
+# sum=fnum+snum
+# print(sum)
