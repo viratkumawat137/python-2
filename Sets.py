@@ -6,7 +6,7 @@ fruits={"apple","mango","banana","graphs"}
 
 
 #aad item
-# fruits.add("lassi")
+# fruits.add("lassi")     
 # print(fruits)
 
 
@@ -46,3 +46,4 @@ fruits={"apple","mango","banana","graphs"}
 # list2={"david","munawar","zone"}
 # comman=list1 & list2
 # print(comman)
+
