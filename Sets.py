@@ -1,7 +1,7 @@
 #day=16 ==>set
 #creat set  #set dublicate item nhi leta 
 
-fruits={"apple","mango","banana","graphs"}
+fruits={"apple","mango","banana","graphs"}    
 #print(fruits)
 
 
