@@ -1,7 +1,7 @@
 # Input and Typecasting
 
 # name=input("Enter your name:")
-# print("Welcome ", name)
+# print("Welcome ", name)  
 
 # age=int(input("Enter your age:"))
 # print(type(age))
