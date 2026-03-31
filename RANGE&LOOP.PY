@@ -2,7 +2,7 @@
 
 # for i in range(1,6):   
 #     print(i)   
-
+   
 
 
 # # range and loop kii help see 2 ki table
