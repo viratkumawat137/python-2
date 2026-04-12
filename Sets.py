@@ -4,7 +4,7 @@
 fruits={"apple","mango","banana","graphs"}                                     
 #print(fruits)
 
-
+                         
 #aad item
 # fruits.add("lassi")     
 # print(fruits)
