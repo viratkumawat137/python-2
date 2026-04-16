@@ -1,4 +1,4 @@
-#day=16 ==>set
+#day=16 ==>set                                 
 #creat set  #set dublicate item nhi leta                                            
 
 fruits={"apple","mango","banana","graphs"}                                     
