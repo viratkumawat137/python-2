@@ -4,7 +4,7 @@
 # # Create lists
 fruits = ["Apple", "Banana", "Mango"]
 # print(fruits)
-# print(fruits[0])
+# print(fruits[0])             
 # print(fruits[-1])
 
 # Update list 
