@@ -2,7 +2,7 @@
 #creat set  #set dublicate item nhi leta                                                                              
 
 fruits={"apple","mango","banana","graphs"}                                     
-#print(fruits)     
+#print(fruits)                         
 
                          
 #aad item
