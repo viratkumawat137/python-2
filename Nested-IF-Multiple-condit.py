@@ -4,7 +4,7 @@
 # age=int(input("Enter your age :"))
 # if age>=18:
 #    id_no=int(input("Enter your id no :")) 
-#    if id_no <=13:
+#    if id_no <=13:                                         
 #       print(" you can enter")
 #    else:
 #       print("Wrong ID Number")
