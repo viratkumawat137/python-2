@@ -7,7 +7,7 @@
 
 # # range and loop kii help see 2 ki table
 # for i in range(0, 22, 2):
-#     print(i)
+#     print(i)                                             
 
 # #countdown ulti table 2 ki
 # for i in range(20, 0, -2):
