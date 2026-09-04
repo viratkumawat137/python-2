@@ -6,7 +6,7 @@
 #    id_no=int(input("Enter your id no :")) 
 #    if id_no <=13:                                         
 #       print(" you can enter")
-#    else:                               
+#    else:                                                                      
 #       print("Wrong ID Number")
 # else:
 #    print("you are underage.")
