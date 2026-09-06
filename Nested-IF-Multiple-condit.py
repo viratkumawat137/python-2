@@ -1,7 +1,7 @@
 # 9-Python-Nested IF and Multiple conditions
 
 # print("Check your Elligibility")                                             
-# age=int(input("Enter your age :"))
+# age=int(input("Enter your age :"))                                       
 # if age>=18:
 #    id_no=int(input("Enter your id no :")) 
 #    if id_no <=13:                                         
