@@ -11,7 +11,7 @@ fruits={"apple","mango","banana","graphs"}
 
 
 ##Remove items
-# fruits.discard("lassi")
+# fruits.discard("lassi")                      
 # print(fruits)
 
 
