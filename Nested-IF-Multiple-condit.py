@@ -13,7 +13,7 @@
 
 
 ## Multiple conditions (and)
-# age=int(input("Enter your age :"))
+# age=int(input("Enter your age :"))                    
 # residence=input("Are you Indian? : ")
 # if age>=18 and residence.lower()=="yes":
 #     print("Eligible to drive")
